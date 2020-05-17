@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vahidsavabieh/chitchat.git/static/css/main.c0b54c9d.chunk.css",
+    "main.js": "/vahidsavabieh/chitchat.git/static/js/main.c642b60a.chunk.js",
+    "main.js.map": "/vahidsavabieh/chitchat.git/static/js/main.c642b60a.chunk.js.map",
+    "runtime~main.js": "/vahidsavabieh/chitchat.git/static/js/runtime~main.f740f3cd.js",
+    "runtime~main.js.map": "/vahidsavabieh/chitchat.git/static/js/runtime~main.f740f3cd.js.map",
+    "static/css/2.d0176e96.chunk.css": "/vahidsavabieh/chitchat.git/static/css/2.d0176e96.chunk.css",
+    "static/js/2.d9570a6a.chunk.js": "/vahidsavabieh/chitchat.git/static/js/2.d9570a6a.chunk.js",
+    "static/js/2.d9570a6a.chunk.js.map": "/vahidsavabieh/chitchat.git/static/js/2.d9570a6a.chunk.js.map",
+    "index.html": "/vahidsavabieh/chitchat.git/index.html",
+    "precache-manifest.60f5f95e0edbc07e7cabc6bcb5ce92a5.js": "/vahidsavabieh/chitchat.git/precache-manifest.60f5f95e0edbc07e7cabc6bcb5ce92a5.js",
+    "service-worker.js": "/vahidsavabieh/chitchat.git/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/vahidsavabieh/chitchat.git/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.c0b54c9d.chunk.css.map": "/vahidsavabieh/chitchat.git/static/css/main.c0b54c9d.chunk.css.map",
+    "static/media/material-dashboard-react.css?v=1.8.0": "/vahidsavabieh/chitchat.git/static/media/Yekan.52ce4de2.ttf",
+    "static/media/marc.jpg": "/vahidsavabieh/chitchat.git/static/media/marc.8880a65c.jpg",
+    "static/media/sidebar-1.jpg": "/vahidsavabieh/chitchat.git/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/vahidsavabieh/chitchat.git/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/vahidsavabieh/chitchat.git/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/vahidsavabieh/chitchat.git/static/media/sidebar-4.fc9cb053.jpg"
+  }
+}
